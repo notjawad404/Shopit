@@ -1,0 +1,43 @@
+.float-right{
+    float: right;
+}
+
+.float-right{
+    float: right;
+}
+
+.nav-align{
+    display: inline-block;
+}
+
+.bg-img{
+    background-image: url(./images/bg1.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.bg-colr{
+    background-color: rgb(102, 161, 181);
+}
+
+.bg-footer{
+    background-color: blanchedalmond;
+}
+
+.header{
+    text-align: center;
+    margin-top: 10rem;
+    height: 20rem;
+}
+
+.text-center{
+    text-align: center;
+}
+
+a:hover{
+    background-color: initial;
+    box-shadow: none;
+    color: initial;
+    text-decoration: none;
+}
